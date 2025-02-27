@@ -1,10 +1,6 @@
 
 ## 🚀 About Me
-I am Jose, a young web application development trainee from Spain, Born on October 30, 2006
-
-I am currently graduating as a Senior Technician in Web Application Development
-
-![Logo](https://media.discordapp.net/attachments/1264528709084250164/1290039946144645181/Recurso_6.png?ex=66fb02d2&is=66f9b152&hm=12dfb2f4dddbcaab525bd6047b17319d71a91bd54eb139f0faace6d9e08a1ceb&=&format=webp&quality=lossless)
+I am Jose.
 
 
 <!--
